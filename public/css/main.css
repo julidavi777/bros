@@ -1,0 +1,11 @@
+.edit-form-data > i.fa-edit{
+    color: blue;
+}
+
+.ver-form-data > i.fa-eye{
+    color: rgb(255, 0, 111);
+}
+
+.delete-form-data > i.fa-trash-alt{
+    color: red;
+}
