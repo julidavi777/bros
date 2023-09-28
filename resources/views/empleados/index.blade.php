@@ -25,13 +25,11 @@
             <thead>
                 <tr>
                     <th>Nombre</th>
-                    <th>Tipo de Documento</th>
-                    <th>Número de Documento</th>
-                    <th>Correo Electrónico</th>
-                    <th>Número Telefónico</th>
-                    <th>Dirección</th>
-                    <th>Ciudad</th>
-                    <th>Acciones</th>
+                    <th>apellido</th>
+                    <th>cedula</th>
+                    <th>dirección</th>
+                    <th>barrio</th>
+                    <th>salario</th>
                 </tr>
             </thead>
             <tbody>
